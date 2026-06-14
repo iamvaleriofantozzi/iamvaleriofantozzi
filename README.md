@@ -1,7 +1,4 @@
-## Ciao, iam valerio 👋
-
-I like to make stuff, all sort of stuff 🦄
-
+## Ciao, iam valerio 🦄
 Welcome to my hub! 🪴
 
 ---
