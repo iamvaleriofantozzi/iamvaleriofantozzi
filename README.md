@@ -1,4 +1,13 @@
-## Hi there 👋
+## Ciao, iam valerio 👋
+
+I like to make stuff, all sort of stuff 🦄
+
+Welcome to my hub! 🪴
+
+---
+
+💼 [linkedin.com/in/valeriofantozzi](https://linkedin.com/in/valeriofantozzi)
+📧 [iamvaleriofantozzi@gmail.com](mailto:iamvaleriofantozzi@gmail.com)
 
 <!--
 **iamvaleriofantozzi/iamvaleriofantozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
