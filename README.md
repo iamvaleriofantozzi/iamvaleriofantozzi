@@ -4,6 +4,7 @@ Welcome to my hub! 🪴
 ---
 
 💼 [linkedin.com/in/valeriofantozzi](https://linkedin.com/in/valeriofantozzi)
+
 📧 [iamvaleriofantozzi@gmail.com](mailto:iamvaleriofantozzi@gmail.com)
 
 <!--
